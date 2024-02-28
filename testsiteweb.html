@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Ma première page web</title>
+  </head>
+  <body>
+    <h1>Bienvenue sur ma première page web</h1>
+    <h2>Sous-titre de ma page</h2>
+    <p>Ceci est le premier paragraphe de ma page web </p>
+    <p>Ceci est le 2è paragraphe de ma page web </p>
+    <p>Ceci est le 3è paragraphe de ma page web </p>
+    
+    <h2>Mes animaux préférés</h2>
+    <ul>
+      <li>Chien</li> 
+      <li>Chat</li>
+      <li>Poisson</li>
+    </ul>
+    
+    <h2>Mises en forme</h2>
+    <p>Ceci est un texte <strong>en gras</strong>.</p>
+    <p>Ceci est un texte <em>en italique</em>.</p>
+    <p>Ceci est un texte <u>souligné</u>.</p>
+  </body>
+</html>
